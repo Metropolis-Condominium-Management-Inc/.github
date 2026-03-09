@@ -3,8 +3,7 @@
 Welcome to the **Metropolis **!  
 We build and maintain tools that help communities stay connected, informed, and empowered through modern technology.
 
-Metropolis has been developing community-driven solutions since **1987**, combining decades of property management experience with in‑house software to solve real‑world challenges for homeowners associations and community managers. :contentReference[oaicite:1]{index=1}
-
+Metropolis has been developing community-driven solutions since **1987**, combining decades of property management experience with in‑house software to solve real‑world challenges for homeowners associations and community managers. 
 ---
 
 ## 🔎 About Our Company
@@ -15,14 +14,13 @@ Metropolis has been developing community-driven solutions since **1987**, combin
 - Maintenance coordination and oversight  
 - Secure online services for residents and boards  
 
-We believe in delivering clear and intuitive systems that help communities operate more efficiently and interactively. :contentReference[oaicite:2]{index=2}
-
+We believe in delivering clear and intuitive systems that help communities operate more efficiently and interactively. 
 ---
 
 ## 🧠 Our Mission
 
 We strive to provide community boards and residents with **transparent, easy‑to‑use digital tools** that enhance collaboration and improve visibility into association operations.  
-Every feature we build is focused on better communication and better service for the communities we support. :contentReference[oaicite:3]{index=3}
+Every feature we build is focused on better communication and better service for the communities we support. 
 
 ---
 
@@ -60,7 +58,7 @@ Have questions about our tools or looking to partner? Reach out at:
 
 📧 **community@mymetropolis.net**  
 🌐 **https://www.wearemetropolis.com/**  
-📍 **4307 Gallatin Street, Hyattsville, MD 20781** :contentReference[oaicite:4]{index=4}
+📍 **4307 Gallatin Street, Hyattsville, MD 20781** 
 
 ---
 
