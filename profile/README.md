@@ -1,6 +1,6 @@
 # 🏙️ Metropolis Condominium Management, Inc.
 
-Welcome to the **Metropolis **!  
+Welcome to the **Metropolis** !  
 We build and maintain tools that help communities stay connected, informed, and empowered through modern technology.
 
 Metropolis has been developing community-driven solutions since **1987**, combining decades of property management experience with in‑house software to solve real‑world challenges for homeowners associations and community managers. 
