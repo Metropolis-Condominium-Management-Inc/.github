@@ -24,16 +24,16 @@ Every feature we build is focused on better communication and better service for
 
 ---
 
-## 📌 Key Projects
+## 📌 Key Teams
 
-Here are some repositories you might want to explore or contribute to:
+Here are some teams you might be a part of:
 
-| Project | Description |
+| Team | Description |
 |---------|-------------|
 | **CommunityWatch** | Transparency and communication platform for community boards and residents |
-| **Fastrac** | Performance tools for financial tracking and reporting |
-| **Metchec** | Maintenance and compliance tracking utilities |
-| **ShoutOut!** | Community messaging and announcement tools |
+| **Odoo** | A suite of open source business apps that helps MCM |
+| **AWS** | Maintenance codes for AWS cloudformation setup |
+| **IM** | In-house Instant Messaging on top of XMPP  |
 
 > *Note: Repositories can be pinned on your org profile for quick access.*
 
@@ -41,7 +41,7 @@ Here are some repositories you might want to explore or contribute to:
 
 ## 🛠️ How to Contribute
 
-We appreciate all contributions! Whether you’re reporting issues or building features, here’s how you can help:
+We appreciate all contributions for your respective teams! Whether you’re reporting issues or building features, here’s how you can help:
 
 1. 🔭 **Explore our repositories**
 2. 💬 **Check open issues**
